@@ -1,5 +1,12 @@
 # MyCine
 
+Désolé, je n'ai pas pu finir la fonction de modification...
+En tout cas, un grand merci pour ce cours que nous avons visiblement tous apprécié.
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
