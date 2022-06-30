@@ -1,0 +1,15 @@
+<form [formGroup]="filmForm" (ngSubmit)="soumettreFilm()">
+
+    <label for="titre">Titre du film: </label>
+    <input id="titreFilm" type="text" formControlName="titre">
+  
+    <label for="synopsis">Synopsis: </label>
+    <input id="synopsisFilm" type="text" formControlName="synopsis">
+
+    <label for="note">Note /10: </label>
+    <input id="noteFilm" type="number" formControlName="note">
+  
+    <button type="submit" [disabled]="!filmForm.valid">Soumettre</button>
+
+</form>
+

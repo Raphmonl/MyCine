@@ -1,0 +1,34 @@
+{
+  "films": [
+    {
+      "titre": "Iron Man",
+      "note": 8,
+      "synopsis": "Tdfgfd",
+      "id": 1
+    },
+    {
+      "titre": "Iron Man 2",
+      "note": 7,
+      "synopsis": "Tdfgfd",
+      "id": 2
+    },
+    {
+      "titre": "Hercules",
+      "note": 10,
+      "synopsis": "Masterclass",
+      "id": 3
+    },
+    {
+      "titre": "Ratatouille",
+      "note": 8,
+      "synopsis": "Rat",
+      "id": 4
+    },
+    {
+      "titre": "tuttut",
+      "note": 5,
+      "synopsis": "vroum",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<p *ngFor="let film of filmList">Titre : {{ film.titre }} 
+    <br>
+    Synopsis {{ film.synopsis }} <br>Note {{ film.note }}
+    <br>
+
+    <button (click)="editFilm(film)">Modifier</button>
+    <button (click)="supprimerFilm(film)">Supprimer</button>
+    <br><br>
+</p>
